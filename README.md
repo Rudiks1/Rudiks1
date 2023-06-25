@@ -29,3 +29,10 @@
 <p align="center">
 <a href=""><img src="https://github-profile-trophy.vercel.app/?username=Rudiks1&column=4&margin-w=5&margin-h=5&theme=darkhub"></a>
 </p>
+
+<hr>
+<div align="center">
+  <a href="https://discord.com/users/493802521706627072"><img src="" alt="Discord"></a>
+  <a href="https://steamcommunity.com/profiles/76561198278787169/"><img src="" alt="Steam"></a>
+</div>
+
