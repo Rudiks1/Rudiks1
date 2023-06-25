@@ -31,8 +31,9 @@
 </p>
 
 <hr>
+
 <div align="center">
-  <a href="https://discord.com/users/493802521706627072"><img src="" alt="Discord"></a>
-  <a href="https://steamcommunity.com/profiles/76561198278787169/"><img src="" alt="Steam"></a>
+  <a href="https://discord.com/users/493802521706627072"><img src="discord.png" alt="Discord" width="50px"></a>
+  <a href="https://steamcommunity.com/profiles/76561198278787169/"><img src="steam.png" alt="Steam" width="50px"></a>
 </div>
 
