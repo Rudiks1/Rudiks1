@@ -1,4 +1,3 @@
-<h1 align='center'>Welcome to my profile!</h1>
 
 <div align="center">
 <a href=""><img width=500px src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rudiks1&show_icons=true&hide=prs&theme=dark&bg_color=DEG,04ff00,00ff80&text_color=000&hide_title=true&icon_color=000&border_radius=15&hide_border=true&ring_color=000&include_all_commits=true"></a>
