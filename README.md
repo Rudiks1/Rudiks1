@@ -1,11 +1,3 @@
-
-<div align="center">
-<a href=""><img width=500px src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rudiks1&show_icons=true&hide=prs&theme=dark&bg_color=DEG,04ff00,00ff80&text_color=000&hide_title=true&icon_color=000&border_radius=15&hide_border=true&ring_color=000&include_all_commits=true"></a>
-<a href=""><img width=500px src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rudiks1&layout=compact&bg_color=DEG,04ff00,00ff80&text_color=000&title_color=000&hide_border=true&border_radius=15&hide_title=true"></a>
-</div>
-
-
-
 <h2>Languages and Technologies</h2>
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -23,16 +15,4 @@
   <a href="https://www.microsoft.com/en-gb/software-download/windows10" target="_blank"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href="https://www.linux.org" target="_blank"><img alt="Linux" src="https://img.shields.io/badge/linux-%234285F4.svg?&style=for-the-badge&logo=linux&logoColor=white"/></a>
 </p>
-
-<h2>GitHub Trophies</h2>
-<p align="center">
-<a href=""><img src="https://github-profile-trophy.vercel.app/?username=Rudiks1&column=4&margin-w=5&margin-h=5&theme=darkhub"></a>
-</p>
-
-<hr>
-
-<div align="center">
-  <a href="https://discord.com/users/493802521706627072" target="_blank"><img src="discord.png" alt="Discord" width="50px"></a>
-  <a href="https://steamcommunity.com/profiles/76561198278787169/" target="_blank"><img src="steam.png" alt="Steam" width="50px"></a>
-</div>
 
